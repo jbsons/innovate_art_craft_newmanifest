@@ -1,0 +1,21 @@
+{
+  "name": "Nisha Patel",
+  "short_name": "Nisha Patel",
+  "description": "Nisha Patel - Innovate Art Craft",
+  "icons": [
+    {
+      "src": "wp-content/uploads/logo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/uploads/logo/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html?homescreen=1",
+  "display": "standalone",
+  "background_color": "#efefef",
+  "theme_color": "#2196f3"
+}
