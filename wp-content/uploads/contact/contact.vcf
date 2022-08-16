@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Patel;Anand
+FN:Anand Patel
+ORG:Sabar Dairy;System
+TITLE:Sr. Officer
+TEL;WORK;VOICE:01262244700
+TEL;HOME;VOICE:+919377060360
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;;Sabar Dairy -  Amul Plant, Plot No:1,2 & 3, Sector: 30-A,=0D=0AHSIIDC - IM=
+T;Rohtak;Haryana;124001;India
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Sabar Dairy -  Amul Plant, Plot No:1,2 & 3, Sector: 30-A,=0D=0AHSIIDC - IMT=
+=0D=0ARohtak, Haryana 124001=0D=0AIndia
+URL;HOME:https://jbsons.github.io
+URL;WORK:http://www.sabardairy.org
+EMAIL;PREF;INTERNET:anand@sabardairy.coop
+EMAIL;INTERNET:anand.sabardairy@gmail.com
+REV:20210830T103902Z
+END:VCARD
